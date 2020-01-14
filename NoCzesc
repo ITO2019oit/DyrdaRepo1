@@ -1,0 +1,8 @@
+public class NoCzesc {
+
+    public static void main(String[] args) {
+        // Prints "No czesc" to the terminal window.
+        System.out.println("No czesc !!");
+    }
+
+}
