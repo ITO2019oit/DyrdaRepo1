@@ -1,5 +1,5 @@
   
-public class HelloDyrda {
+public class Hello_Dyrda {
 
     public static void main(String[] args) {
         // Prints "Hello Dyrda" to the terminal window.
