@@ -1,0 +1,8 @@
+public class Siemandero {
+
+    public static void main(String[] args) {
+        // Prints "Siemandero" to the terminal window.
+        System.out.println("Siemandero");
+    }
+
+}
